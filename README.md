@@ -94,6 +94,6 @@
 
 <div align="center">
 
-  <i>"it’s not a bug, it’s just the model exploring synthetic creativity."⚡</i>
+  <i>"it’s not a bug, it’s just the model exploring synthetic creativity." ⚡</i>
 
 </div>
