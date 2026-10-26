@@ -32,7 +32,7 @@
 - ⚡ **What I Do:** Build & deploy end-to-end AI systems (Agentic RAG, Multi-agent workflows, production DL pipelines).
 - 🛠️ **Tech Stack Focus:** Python, LangChain, LangGraph, RAGAS, Docker, FastAPI, and MLflow.
 - 📍 **Location:** Ajmer, Rajasthan, India *(Open to relocation)*.
-- 🚀 **Looking For:** AI/ML Engineering internship in **Bangalore** to build cool, scalable, production-grade GenAI stuff.
+- 🚀 **Looking For:** AI/ML Engineering internship | **Open To Relocalion** to build cool, scalable, production-grade GenAI stuff.
 
 ---
 
